@@ -10,18 +10,18 @@
 ![AdrianCaetano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianCaetano&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia a dia:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ### Linguagens que eu uso no meu dia a dia:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Pawn](https://img.shields.io/badge/Pawn-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ### Banco de Dados que eu uso no meu dia a dia:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![SqLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ### Workshops que eu uso no meu dia a dia:
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ### Ides que eu uso no meu dia a dia:
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ### Meu companheiro do dia-a-dia:
-![Amd](https://img.shields.io/badge/Processador-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![Placa](https://img.shields.io/badge/Video-Radeon_RX_1650-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![Sistema](https://img.shields.io/badge/Windows-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Amd](https://img.shields.io/badge/Processador-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![Placa](https://img.shields.io/badge/Video-Radeon_RX_1650-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![Sistema](https://img.shields.io/badge/Windows-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ### Ferramentas do Windows que eu uso:
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=whit)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -29,5 +29,3 @@
 ![Navegador](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 ### Apaixonado por tecnologia e principalmente programação.
-
-![snake gif](https://github.com/AdrianCaetano/AdrianCaetano/blob/output/github-contribution-grid-snake.svg)
