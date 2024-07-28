@@ -9,7 +9,7 @@
 
 ![AdrianCaetano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianCaetano&show_icons=true&theme=radical)
 
-### Tecnologias/Linguagens que eu uso no meu dia a dia:
+### Tecnologias que eu uso no meu dia a dia:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ### Linguagens que eu uso no meu dia a dia:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Pawn](https://img.shields.io/badge/Pawn-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
