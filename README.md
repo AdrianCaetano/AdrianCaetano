@@ -30,4 +30,4 @@
 
 ### Apaixonado por tecnologia e principalmente programação.
 
-![snake gif](https://github.com/AdrianCaetano/snakegame.yxml/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AdrianCaetano/AdrianCaetano/blob/output/github-contribution-grid-snake.svg)
