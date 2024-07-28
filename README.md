@@ -29,3 +29,5 @@
 ![Navegador](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 ### Apaixonado por tecnologia e principalmente programação.
+
+![snake gif](https://github.com/AdrianCaetano/AdrianCaetano/blob/output/github-contribution-grid-snake.svg)
