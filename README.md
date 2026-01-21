@@ -2,9 +2,6 @@
 
 ## Minha Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VqgxZJyvtF)
-[![Canal de Programação](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuw-vlsK0vfVN-A6_VK3GiQ)
-[![Canal de Games](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-cGrsCHRXF_dWlE8u3S3Cw)
-[![Tik Tok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@adrian.caetano.privado)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriancaetano00/)
 
 ![AdrianCaetano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianCaetano&show_icons=true&theme=radical)
